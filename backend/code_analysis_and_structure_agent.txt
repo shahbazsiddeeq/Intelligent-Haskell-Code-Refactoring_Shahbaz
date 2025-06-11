@@ -24,4 +24,16 @@ Check completeness and accuracy.
 Provide corrective feedback if discrepancies found.
 
 Expected Output:
-Structured markdown report ready for downstream agents.
+Output your results in JSON format exactly as follows (do not output any additional text):
+
+{
+  "final_candidates": [
+    {
+      "target_snippet": "string",
+      "context": "string",
+      "confidence": 0.0,
+      "justification": "string"
+    }
+    // Additional candidate objects if applicable.
+  ]
+}
