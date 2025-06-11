@@ -1,1 +1,1 @@
-# LLM-based Multi-agent System for Intelligent Refactoring of Haskell Code
+# Intelligent Haskell Code Refactoring using Mulit-agent System
