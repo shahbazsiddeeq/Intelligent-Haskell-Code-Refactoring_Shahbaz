@@ -4,7 +4,7 @@
 </a>
 </p>
 
-<h1 align="center" style="border-bottom: none !important; margin-bottom: 5px !important;"><a href="https://designrevision.com/downloads/shards-dashboard-lite-react/">Shards Dashboard React</a></h1>
+<h1 align="center" style="border-bottom: none !important; margin-bottom: 5px !important;"><a href="https://designrevision.com/downloads/shards-dashboard-lite-react/">Refactor Panel</a></h1>
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg" />
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-A free React admin dashboard template pack featuring a modern design system <br />  and lots of custom templates and components.
+Refactor Panel for Haskell based application code  Refactoring <br />
 </p>
 
 <p align="center">
